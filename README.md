@@ -36,9 +36,9 @@ SQL sorğularının hamısı [`telco_churn_analysis.sql`](./telco_churn_analysis
 
 ## Dashboard
 
-Dashboard-u interaktiv görmək üçün [`dashboard.twbx`](./dashboard.twbx) faylını endirib Tableau Desktop-da açın (Tableau Public pulsuz mövcuddur).
+Dashboard-u interaktiv görmək üçün [`dashboard.twbx`](./dashboard_tableau.twbx) faylını endirib Tableau Desktop-da açın (Tableau Public pulsuz mövcuddur).
 
-![Telco Churn Dashboard](./dashboard.png)
+![Telco Churn Dashboard](./dashboard_screenshot0.png)
 
 Dashboard 4 hissədən ibarətdir:
 - **Churn Rate by Contract Type** – müqavilə tipi üzrə tərk etmə dərəcəsi
